@@ -54,4 +54,4 @@ spec:
                   number: 80
   tls:
     - hosts:
-        - webcolor-159-203-158-171.nip.io
+        - webcolor.dev4cloud.online
